@@ -1,2 +1,1 @@
-int64 led_number
-string led_state
+int64[] led_state

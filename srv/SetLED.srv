@@ -1,4 +1,5 @@
 int64 led_number
-bool led_state
+int64 state
 ---
 bool succsess
+string message
